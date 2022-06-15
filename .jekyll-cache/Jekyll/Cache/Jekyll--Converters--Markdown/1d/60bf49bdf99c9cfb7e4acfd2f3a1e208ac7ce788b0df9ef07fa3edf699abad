@@ -1,0 +1,14 @@
+I"�<p>Git 블로그 시작을 위해 로컬에서 개발 환경을 구성해봤다.</p>
+
+<p>작성은 마크다운을 이용 (https://kramdown.gettalong.org/quickref.html)</p>
+
+<h2 id="1-jekyll-오픈소스를-fork한-repository를-clone-한다">1. jekyll 오픈소스를 fork한 repository를 clone 한다.</h2>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    <span class="nv">$ </span>git clone https://repostiry주소
+</code></pre></div></div>
+
+<h2 id="2-ruby-다운로드-및-설치">2. ruby 다운로드 및 설치</h2>
+
+<p><a href="https://rubyinstaller.org/downloads">https://rubyinstaller.org/downloads</a></p>
+
+:ET
