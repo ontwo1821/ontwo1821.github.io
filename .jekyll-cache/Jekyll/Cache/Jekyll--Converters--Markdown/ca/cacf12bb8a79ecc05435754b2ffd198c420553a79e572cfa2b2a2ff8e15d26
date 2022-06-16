@@ -1,8 +1,0 @@
-I"�<p>Git 블로그 시작을 위해 로컬에서 개발 환경을 구성해봤다.
-작성은 마크다운을 이용 (https://kramdown.gettalong.org/quickref.html)</p>
-
-<ol>
-  <li>jekyll 오픈소스를 fork한 repository를 clone 한다.</li>
-</ol>
-
-:ET
