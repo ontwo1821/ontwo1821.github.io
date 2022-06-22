@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Git Blog Windows 로컬 환경 구축
+categories: [Github Blog]
+tags: [Github Blog]
 ---
 
 Git 블로그 시작을 위해 로컬에서 개발 환경을 구성해봤다.
